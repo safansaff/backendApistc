@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>newdevice</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99a66de5-c7b0-4ae1-8fb7-ea4caecebbec</testCaseGuid>
+</TestCaseEntity>
